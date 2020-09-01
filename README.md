@@ -8,7 +8,7 @@
 * Progress
 * Beta
 
-#Hierarchy
+
 ## Hierarchy
 <img src="https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg" width="40%">
 
