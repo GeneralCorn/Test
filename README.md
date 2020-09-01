@@ -1,43 +1,4 @@
-# CSP Project Description
-
-## Table of Contents
-
-* Mission Statement
-* [Hierarchy](#hierarchy)
-* [Usage](#usage)
-* Progress
-* Beta
-
-
-## Hierarchy
-<img src="https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg" width="40%">
-
-# Usage
-Create your separate branch for your features.
-```bash
-git branch yourFeature
-git checkout youFeature
-```
-
-Put your source code in the src folder.
-
-The package for the Subject class is *main*.
-Create your own package for your features.
-
-Compile your java files with
-```bash
-./build.sh
-```
-
-To run the main class, do
-```bash
-./build.sh run
-```
-
-To clean the binaries, do 
-```bash
-./build clean
-```
-
-Subject.java provides the constructor Subject.
-Main.java provides the main loop.
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
