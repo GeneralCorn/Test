@@ -1,7 +1,7 @@
 First Header | Second Header|
 ------------ | -------------|
 Cobbi | <ul><li>- [] ToDo List</li></ul>|
-Uzen | <ul><li>- [x] item 1</li></ul>|
+Uzen | <ul><li>- [x] Database</li></ul>|
 Jerry | <ul><li>- [] Calendar</li></ul>|
 
 
