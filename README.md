@@ -4,7 +4,7 @@
 
 * Mission Statement
 * [Hierarchy](#hierarchy)
-* Usage
+* [Usage](#usage)
 * Progress
 * Beta
 
@@ -12,7 +12,7 @@
 ## Hierarchy
 <img src="https://github.com/CookieUzen/csp/blob/master/Hierarchy.jpg" width="40%">
 
-#Usage
+# Usage
 Create your separate branch for your features.
 ```bash
 git branch yourFeature
