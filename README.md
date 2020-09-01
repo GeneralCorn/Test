@@ -1,8 +1,8 @@
-First Header | Second Header
------------- | -------------
-Cobbi | <ul><li>- [] ToDo List</li></ul>
-  Uzen | <ul><li>- [] Database</li></ul>
-Jerry | <ul><li>- [] Calendar</li></ul>
+First Header | Second Header|
+------------ | -------------|
+Cobbi | <ul><li>- [] ToDo List</li></ul>|
+Uzen | <ul><li>- [] Database</li></ul>|
+Jerry | <ul><li>- [] Calendar</li></ul>|
 
 
 | Task           | Time required | Assigned to   | Current Status | Finished | 
